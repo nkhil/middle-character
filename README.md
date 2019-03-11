@@ -1,4 +1,4 @@
-# Process workshop
+# Middle letter process workshop
 
 This repository is part of the process workshop at Maker's academy.
 

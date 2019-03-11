@@ -1,6 +1,6 @@
 # Process workshop
 
-This repository is part of the process wrkshop at Maker's academy.
+This repository is part of the process workshop at Maker's academy.
 
 You can [see my screen recording solving this here](https://youtu.be/I1GI0Y-nfYw).
 
